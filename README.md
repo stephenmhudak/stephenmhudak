@@ -1,6 +1,6 @@
 **It's more fun to be present than it is to be detached**
   
-**K-12 programming - FERPA stuff**  
+**K-12 programming**  
 All of my repos are private until I can make sure there's no data in the repo.  
 
 
