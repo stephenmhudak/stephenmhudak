@@ -1,4 +1,4 @@
-**Full-stack developer | Languages include (not limited to): JS, TS, React, Vue, .Net, PHP, Laravel, Entity Frramwork, SqlKata, Dapper,
+**Full-stack developer | Languages include (not limited to): JS, TS, React, Vue, .Net, PHP, Laravel, Entity Frramwork, SqlKata, Dapper**
 
 <!---
 - 👀 I’m interested in ...
